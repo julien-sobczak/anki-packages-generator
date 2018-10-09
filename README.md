@@ -12,6 +12,7 @@ Scripts used to create flashcards programmatically. (see under folder `scripts/`
 ```
 $ git clone <anki-packages-generator>
 $ cd anki-packages-generator
+$ git submodule add https://github.com/dae/anki.git # Use a tag if error happens with latest version
 $ virtualenv -p python3 env
 $ pip install -r requirements.txt
 ```
@@ -25,6 +26,7 @@ $ source env/bin/activate
 ```
 
 Then, create a valid Anki installation that will be populated with generated flashcards.
+(Important: use a clean installation to avoid corrupting our Anki database!)
 
 On Linux:
 
@@ -53,4 +55,6 @@ $ python load_XXX.py -d English \
 ```
 
 Note: Check each script Python docstring for further documentation.
+
+Reopen Anki using the same command as used above and export the populated deck as an Anki package. To finish, open Anki without argument and import the exported package. That's it.
 
