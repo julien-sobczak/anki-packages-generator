@@ -1,0 +1,7 @@
+*.pyc
+.classpath
+.vscode/
+.DS_Store
+.settings/
+AnkiTest/
+/env/

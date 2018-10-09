@@ -1,0 +1,650 @@
+[
+{
+  "slang": "10q",
+  "meaning": "Thank you"
+},
+{
+  "slang": "10x",
+  "meaning": "Thanks"
+},
+{
+  "slang": "A C?",
+  "meaning": "AH! SI?"
+},
+{
+  "slang": "AAF",
+  "meaning": "As A Friend"
+},
+{
+  "slang": "ADAD",
+  "meaning": "Another Day Another Dollar"
+},
+{
+  "slang": "ADIH",
+  "meaning": "Another Day In Hell"
+},
+{
+  "slang": "ADIP",
+  "meaning": "Another Day in Paradise"
+},
+{
+  "slang": "AEAP",
+  "meaning": "As Early As Possible"
+},
+{
+  "slang": "AF",
+  "meaning": "As fuck"
+},
+{
+  "slang": "AFAICR",
+  "meaning": "As far as I can recall / remember"
+},
+{
+  "slang": "AFAICS",
+  "meaning": "As far as I can see"
+},
+{
+  "slang": "AFAICT",
+  "meaning": "As far as I can tell"
+},
+{
+  "slang": "AFAIK",
+  "meaning": "As far as I know"
+},
+{
+  "slang": "AFAIR",
+  "meaning": "As far as I remember"
+},
+{
+  "slang": "AFAIU",
+  "meaning": "As far as I understand"
+},
+{
+  "slang": "AFAIUI",
+  "meaning": "As far as I understand it"
+},
+{
+  "slang": "AFAP",
+  "meaning": "As Far As Possible"
+},
+{
+  "slang": "AFK",
+  "meaning": "Away from keyboard"
+},
+{
+  "slang": "ALOL",
+  "meaning": "Actually laughing out loud"
+},
+{
+  "slang": "ASAP",
+  "meaning": "As soon as possible"
+},
+{
+  "slang": "ATEOTD",
+  "meaning": "At The End of the Day"
+},
+{
+  "slang": "ATB",
+  "meaning": "All the best"
+},
+{
+  "slang": "ATM",
+  "meaning": "At the moment"
+},
+{
+  "slang": "B4",
+  "meaning": "Before"
+},
+{
+  "slang": "BBIAB",
+  "meaning": "Be back in a bit"
+},
+{
+  "slang": "BBL",
+  "meaning": "Be back later"
+},
+{
+  "slang": "BBS",
+  "meaning": "Be back shortly / soon"
+},
+{
+  "slang": "BCNU",
+  "meaning": "Be seein' you"
+},
+{
+  "slang": "BFF",
+  "meaning": "Best Friends Forever"
+},
+{
+  "slang": "BFN",
+  "meaning": "Bye For Now"
+},
+{
+  "slang": "BOFH",
+  "meaning": "Bastard operator from hell"
+},
+{
+  "slang": "BRB",
+  "meaning": "Be right back"
+},
+{
+  "slang": "BSOD",
+  "meaning": "Blue Screen of Death"
+},
+{
+  "slang": "BTTT",
+  "meaning": "Back to the top"
+},
+{
+  "slang": "BTW",
+  "meaning": "By the way"
+},
+{
+  "slang": "CMIIW",
+  "meaning": "Correct me if I'm wrong."
+},
+{
+  "slang": "CU",
+  "meaning": "See you (later)"
+},
+{
+  "slang": "CYA",
+  "meaning": "Cover Your Ass"
+},
+{
+  "slang": "DFTT",
+  "meaning": "Don't feed the trolls"
+},
+{
+  "slang": "DFTBA",
+  "meaning": "Don't forget to be awesome"
+},
+{
+  "slang": "DGAF",
+  "meaning": "Don't give a fuck"
+},
+{
+  "slang": "DIAF",
+  "meaning": "Die in a fire"
+},
+{
+  "slang": "DILLIGAF/D/S",
+  "meaning": "Does it look like I give a flip / fuck / damn / shit"
+},
+{
+  "slang": "DND",
+  "meaning": "Do not disturb"
+},
+{
+  "slang": "ELI5",
+  "meaning": "Explain like I'm Five"
+},
+{
+  "slang": "EOM",
+  "meaning": "End of Message"
+},
+{
+  "slang": "ESAD",
+  "meaning": "eat shit and die"
+},
+{
+  "slang": "ETA",
+  "meaning": "Estimated time of arrival"
+},
+{
+  "slang": "F9",
+  "meaning": "Fine"
+},
+{
+  "slang": "FFS",
+  "meaning": "For fuck's sake"
+},
+{
+  "slang": "FML",
+  "meaning": "Fuck my life."
+},
+{
+  "slang": "FOAD",
+  "meaning": "Fuck off and die"
+},
+{
+  "slang": "FOAF",
+  "meaning": "Friend of a friend"
+},
+{
+  "slang": "FTFY",
+  "meaning": "Fixed that for you"
+},
+{
+  "slang": "FTR",
+  "meaning": "For the record"
+},
+{
+  "slang": "FTL",
+  "meaning": "For the loss"
+},
+{
+  "slang": "FTW",
+  "meaning": "For the win"
+},
+{
+  "slang": "FU",
+  "meaning": "Fuck you"
+},
+{
+  "slang": "FUBAR",
+  "meaning": "Fucked up beyond all recognition / repair (from military slang; pronounced foo-bar)"
+},
+{
+  "slang": "FWIW",
+  "meaning": "For what it's worth"
+},
+{
+  "slang": "FYI",
+  "meaning": "For your information"
+},
+{
+  "slang": "GBTW",
+  "meaning": "Get back to work"
+},
+{
+  "slang": "GF",
+  "meaning": "Great/good fight"
+},
+{
+  "slang": "GFU",
+  "meaning": "Good for you"
+},
+{
+  "slang": "GFY",
+  "meaning": "Go fuck yourself"
+},
+{
+  "slang": "GJ",
+  "meaning": "Good job, often used in online gaming when a teammate performs an act benefitting his team, such as killing an opponent or enabling that kill"
+},
+{
+  "slang": "GL",
+  "meaning": "Good luck, used before commencing a game"
+},
+{
+  "slang": "GMTA",
+  "meaning": "Great minds think alike"
+},
+{
+  "slang": "gratz",
+  "meaning": "Congratulations"
+},
+{
+  "slang": "GTFO",
+  "meaning": "Get the fuck out"
+},
+{
+  "slang": "HAND",
+  "meaning": "have a nice day"
+},
+{
+  "slang": "HF",
+  "meaning": "Have fun"
+},
+{
+  "slang": "HTH",
+  "meaning": "Hope this / that helps"
+},
+{
+  "slang": "IANAL",
+  "meaning": "I am not a lawyer"
+},
+{
+  "slang": "IDK",
+  "meaning": "I don't know"
+},
+{
+  "slang": "IHT",
+  "meaning": "I had to"
+},
+{
+  "slang": "IIRC",
+  "meaning": "If I recall / remember correctly"
+},
+{
+  "slang": "IIUC",
+  "meaning": "If I understand correctly"
+},
+{
+  "slang": "ILY",
+  "meaning": "I love you"
+},
+{
+  "slang": "IMO",
+  "meaning": "In my opinion"
+},
+{
+  "slang": "IMHO",
+  "meaning": "In my humble / honest opinion"
+},
+{
+  "slang": "IMNSHO",
+  "meaning": "In my not so humble opinion"
+},
+{
+  "slang": "information superhighway",
+  "meaning": "The Internet (AKA: I-way, infobahn)"
+},
+{
+  "slang": "IOW",
+  "meaning": "In other words"
+},
+{
+  "slang": "IRC",
+  "meaning": "Internet Relay Chat"
+},
+{
+  "slang": "IRL",
+  "meaning": "In real life"
+},
+{
+  "slang": "ISTM",
+  "meaning": "It seems to me"
+},
+{
+  "slang": "IYKWIM",
+  "meaning": "If you know what I mean"
+},
+{
+  "slang": "JAS",
+  "meaning": "Just a sec"
+},
+{
+  "slang": "JFTR",
+  "meaning": "Just for the record"
+},
+{
+  "slang": "JK or j/k",
+  "meaning": "Just kidding, or joke"
+},
+{
+  "slang": "k or kk",
+  "meaning": "OK"
+},
+{
+  "slang": "KISS",
+  "meaning": "Keep it simple stupid."
+},
+{
+  "slang": "kms",
+  "meaning": "kill myself"
+},
+{
+  "slang": "KTHX",
+  "meaning": "OK, thanks"
+},
+{
+  "slang": "l8r",
+  "meaning": "Later"
+},
+{
+  "slang": "LMFAO",
+  "meaning": "Laughing my fucking ass off"
+},
+{
+  "slang": "LMGTFY",
+  "meaning": "Let me Google that for you"
+},
+{
+  "slang": "LMIRL",
+  "meaning": "Let's meet in real life."
+},
+{
+  "slang": "LMK",
+  "meaning": "Let me know"
+},
+{
+  "slang": "LOL",
+  "meaning": "Laughing out loud, laugh out loud"
+},
+{
+  "slang": "MFW",
+  "meaning": "My face when (Usually accompanied by an image)"
+},
+{
+  "slang": "MOTD",
+  "meaning": "Message of the day"
+},
+{
+  "slang": "MTFBWY",
+  "meaning": "May The Force be with you"
+},
+{
+  "slang": "MYOB",
+  "meaning": "Mind your own business"
+},
+{
+  "slang": "NP",
+  "meaning": "No problem"
+},
+{
+  "slang": "NSOH",
+  "meaning": "No sense of humor."
+},
+{
+  "slang": "NSFW",
+  "meaning": "Not safe for work. Warning about content that may get the viewer in trouble with his employer or co-workers."
+},
+{
+  "slang": "O RLY",
+  "meaning": "Oh really?"
+},
+{
+  "slang": "OIC",
+  "meaning": "Oh, I see"
+},
+{
+  "slang": "OMG",
+  "meaning": "Oh my god"
+},
+{
+  "slang": "OMFG",
+  "meaning": "Oh my fucking god"
+},
+{
+  "slang": "OMW",
+  "meaning": "On my way or Oh my word"
+},
+{
+  "slang": "OT",
+  "meaning": "Off topic"
+},
+{
+  "slang": "OTB",
+  "meaning": "Off to bed"
+},
+{
+  "slang": "OTOH",
+  "meaning": "On the other hand"
+},
+{
+  "slang": "OTP",
+  "meaning": "On the phone"
+},
+{
+  "slang": "PEBKAC/PEBCAK",
+  "meaning": "Problem exists between keyboard and chair"
+},
+{
+  "slang": "PITA",
+  "meaning": "Pain in the arse / ass"
+},
+{
+  "slang": "PLMK",
+  "meaning": "Please let me know"
+},
+{
+  "slang": "PPL",
+  "meaning": "People"
+},
+{
+  "slang": "RL",
+  "meaning": "Real Life"
+},
+{
+  "slang": "ROFL/ROTFL",
+  "meaning": "Rolling on (the) floor laughing"
+},
+{
+  "slang": "RTFM/RTM",
+  "meaning": "Read the (fucking/fine) manual or reboot the (fucking) machine"
+},
+{
+  "slang": "SCNR",
+  "meaning": "Sorry, could not resist"
+},
+{
+  "slang": "SMH",
+  "meaning": "Shaking my head"
+},
+{
+  "slang": "SOS",
+  "meaning": "Someone (watching) Over Shoulder"
+},
+{
+  "slang": "STFW",
+  "meaning": "Search the fucking web"
+},
+{
+  "slang": "TBH",
+  "meaning": "To be honest"
+},
+{
+  "slang": "TFW",
+  "meaning": "That feel when"
+},
+{
+  "slang": "TG",
+  "meaning": "That's great"
+},
+{
+  "slang": "TGIF",
+  "meaning": "Thank God it's Friday"
+},
+{
+  "slang": "TIA",
+  "meaning": "Thanks in advance"
+},
+{
+  "slang": "TIL",
+  "meaning": "Today I learned"
+},
+{
+  "slang": "TINS",
+  "meaning": "There is no spoon"
+},
+{
+  "slang": "TL;DR",
+  "meaning": "Too Long; Didn't Read"
+},
+{
+  "slang": "TMI",
+  "meaning": "Too much information"
+},
+{
+  "slang": "TOS",
+  "meaning": "Terms of service"
+},
+{
+  "slang": "TTBOMK",
+  "meaning": "To the best of my knowledge"
+},
+{
+  "slang": "TTYL",
+  "meaning": "Talk to you later (also spelled TTUL, T2UL or T2YL)"
+},
+{
+  "slang": "TTYS",
+  "meaning": "Talk to you soon"
+},
+{
+  "slang": "TY",
+  "meaning": "Thank you"
+},
+{
+  "slang": "TYT",
+  "meaning": "Take your time"
+},
+{
+  "slang": "TYVM",
+  "meaning": "Thank you very much"
+},
+{
+  "slang": "U",
+  "meaning": "You"
+},
+{
+  "slang": "UTFSE",
+  "meaning": "Use the fucking search engine"
+},
+{
+  "slang": "W/ or W/O",
+  "meaning": "With or without"
+},
+{
+  "slang": "WB",
+  "meaning": "Welcome back"
+},
+{
+  "slang": "WBU",
+  "meaning": "What (a)bout you"
+},
+{
+  "slang": "W/E",
+  "meaning": "Whatever"
+},
+{
+  "slang": "WRT",
+  "meaning": "With respect / regard to"
+},
+{
+  "slang": "WTF",
+  "meaning": "What the fuck"
+},
+{
+  "slang": "WTG",
+  "meaning": "Way to go"
+},
+{
+  "slang": "WTH",
+  "meaning": "What the hell"
+},
+{
+  "slang": "W8",
+  "meaning": "Wait"
+},
+{
+  "slang": "YAGNI",
+  "meaning": "You Ain't Gonna Need It."
+},
+{
+  "slang": "YGM",
+  "meaning": "You've Got Mail."
+},
+{
+  "slang": "YHBT",
+  "meaning": "You have been trolled."
+},
+{
+  "slang": "YKW",
+  "meaning": "You know what?"
+},
+{
+  "slang": "YOLO",
+  "meaning": "You Only Live Once."
+},
+{
+  "slang": "YOYO",
+  "meaning": "You're On Your Own."
+},
+{
+  "slang": "YW",
+  "meaning": "You're welcome."
+}
+]
