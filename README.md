@@ -4,8 +4,8 @@ Scripts used to create flashcards programmatically. (see under folder `scripts/`
 
 ## Dependencies
 
-** Python 3.x
-** Virtualenv
+* Python 3.x
+* Virtualenv
 
 ## Installing
 
